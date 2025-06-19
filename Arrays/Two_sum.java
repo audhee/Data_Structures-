@@ -17,7 +17,7 @@ public class Two_sum {
                 }
             }
         }
-        return new int[] {};
+        return result;
         // It returns a null array if the result array has not been found
     }
     public static void main(String[] args) {
